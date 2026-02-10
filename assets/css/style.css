@@ -62,7 +62,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    height: 60vh;
+    height: 30vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://via.placeholder.com/1500x800.png?text=Movie+Banner');
     background-size: cover;
     background-position: center;
@@ -70,7 +70,7 @@ nav {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .hero-content h1 {
